@@ -10,6 +10,12 @@ public static void main(String[] args) {
 		}
 		
 		
+<<<<<<< HEAD
 		System.out.println(rev);// lilly sambba gulla
+=======
+		System.out.println(rev);// gulla sambba
+  
+
+>>>>>>> dummy
 
 }}
